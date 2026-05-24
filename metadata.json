@@ -1,0 +1,6 @@
+{
+  "name": "CogniCheck",
+  "description": "A mental agility tracking app that uses rapid-fire cognitive tests to monitor alertness, sobriety, and fatigue compared to personal baselines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
